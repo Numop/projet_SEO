@@ -1,0 +1,60 @@
+1 - Project overview
+This year you will compete against your fellow classmate to try to be the first to be referenced (organic "blue link") on the keyword (given by the teacher)
+
+This is an individual project.
+
+2 - Features
+You will need to be referenced using the word (keyword is given by the teacher)
+
+Caen : Développeur freelance Caen
+Lille : Développeur freelance Lille
+Lyon : Développeur freelance Lyon
+Paris : Développeur freelance Paris
+Tours : Développeur freelance Tours
+Distanciel : Développeur freelance [votre ville]
+There is no limitation. Use your network, find ideas to talk about your product - which can be about anything and try to create a community.
+
+Simple and basic ideas (but not limited to) of features that can be useful to drive engagement on your website:
+
+articles / blogposts
+social link
+up to date content
+...
+ 
+
+3 - Tips
+You can use all you know to have the best ranking !
+Here are some resources if necessary - of course you can use something else for both domain and server
+
+Github Student Developers Pack (You can access it for free, using your SUPINFO email address on Github). This pack includes the following (and useful for this course) resources:
+
+Hosting:
+DigitalOcean (200$ free credits for a year)
+Github Pages
+Heroku (13$ free credits per month)
+Domains:
+Namecheap (Free .me domain for a year)
+.TECH Domains (Free .tech domain for a year)
+Name.com (Free. live domain for a year)
+You can also find various tools like CI/CD tools, SSH and GIT clients, Passwords Manager, etc.)
+You can also rely on some other free resources - like Wordpress.com or find any other domain name (some can be free)
+
+ 
+
+4 - Deliverables
+ 
+
+There is no need to send your website or project code.
+
+The only expected deliverable is a full documentation of the actions you took, the result and how you decided to choose what to do to improve constently your ranking
+
+==> The ranking results on google.fr for the keyword given by the teacher will be considered during your oral defense
+
+ 
+
+5 - Graded items
+Quality of your website and SEO (Concept, content, keywords, choices - CMS, themes, plugins, Search Console, etc.)
+
+Final documentation
+
+Ranking
